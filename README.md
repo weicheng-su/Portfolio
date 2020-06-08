@@ -13,6 +13,9 @@
 - Implemented skills including data exploration, cleaning and modeling
 
 
+## [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York Data)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
+
+
 ## Contact Me
 - [My LinkedIn](https://www.linkedin.com/in/wei-cheng-su/)
 - [My Github](https://github.com/weicheng-su)
