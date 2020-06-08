@@ -9,6 +9,11 @@
 - Coducted the skills including bag of words, TF-IDF, word clouds
 - Earned the third rank in the class
 
+## [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
+- A competition held by E.SUN bank to detect fraud credit card behaviors.
+- Implemented skills including data exploration, cleaning and modeling
+
+
 ## Contact Me
 - [My LinkedIn](https://www.linkedin.com/in/wei-cheng-su/)
 - [My Github](https://github.com/weicheng-su)
