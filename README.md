@@ -8,12 +8,13 @@
 - Coducted the skills including bag of words, TF-IDF, word clouds
 - Earned the third rank in the class
 
+## [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
+
 ## [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
 - A competition held by E.SUN bank to detect fraud credit card behaviors.
 - Implemented skills including data exploration, cleaning and modeling
 
 
-## [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
 
 
 ## Contact Me
