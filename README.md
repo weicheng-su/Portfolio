@@ -22,9 +22,12 @@
 
 <img src="images/number_of_booked_houses.png" width="450"/>
 <br>
+
 - The total numbers of how many houses people booked had decreased sharply, from 1.1 million houses to 600 thousand house.
+
 <img src="images/number_of_canceled_houses.png" width="450"/>
 <br>
+
 - The total number of people who canceled their bookings during March-April is 110000, which is the highest among all, and it's about three times of the number of canceled houses on Dec-Jan and Jan-Feb.
 - We can observe that the covid-19 did cause the Airbnb to lose a lot of bookings.
 
