@@ -1,12 +1,12 @@
-# Data Science Projects
-## Project1: [Implement KNN with BFL and LSH](https://github.com/weicheng-su/Implement_KNN_with_BFL_and_LSH/blob/master/LSH_vs_Brute_Force_on_KNN.ipynb)
+## Data Science Projects
+### Project1: [Implement KNN with BFL and LSH](https://github.com/weicheng-su/Implement_KNN_with_BFL_and_LSH/blob/master/LSH_vs_Brute_Force_on_KNN.ipynb)
 
 - Implemented KNN with brute-force linear search (BFL) and Locality-sensitive hashing search (LSH), and then compared their effectiveness and efficiency. 
 - Changed LSH hyperparameters to see the performance change via plots.
 <img src="images/effectiveness.png" width="450"/>
 <img src="images/efficiency.png" width="450"/>
 
-## Project2: [Twitter Hate Speech Detection](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
+### Project2: [Twitter Hate Speech Detection](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
 - Implemented text mining to classify the hate speech in twitter
 - Coducted the skills including bag of words, TF-IDF, word clouds, SVM classifier.
 - Earned the third rank in the class
@@ -14,7 +14,7 @@
 <img src="images/tweet_hate_speech_3rd.png" width="450"/>
 
 
-## Project3: [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
+### Project3: [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
 - Analyzed the data from [inside Airbnb](http://insideairbnb.com/get-the-data.html) during December 2019 to May 2020.
 - Created plots to show how much did the booking decrease due to the covid-19 pandemic.
 
@@ -34,14 +34,14 @@
 - The total number of people who canceled their bookings during March-April is 110000, which is the highest among all, and it's about three times of the number of canceled houses on Dec-Jan and Jan-Feb.
 - We can observe that the covid-19 did cause the Airbnb to lose a lot of bookings.
 
-## Project4: [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
+### Project4: [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
 - A competition held by E.SUN bank to detect fraud credit card behaviors.
 - Implemented skills including data exploration, cleaning and modeling
 
 
 
 
-## Contact Me
+### Contact Me
 - [My LinkedIn](https://www.linkedin.com/in/wei-cheng-su/)
 - [My Github](https://github.com/weicheng-su)
 - E-mail: weichengsu1998@gmail.com
