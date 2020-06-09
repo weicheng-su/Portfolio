@@ -13,9 +13,17 @@
 ### [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
 - Analyzed the data from [inside Airbnb](http://insideairbnb.com/get-the-data.html) during December 2019 to May 2020.
 - Created plots to show how much did the booking decrease due to the covid-19 pandemic.
+
 <img src="images/cancel_rate.png" width="450"/>
+- March to April has the highest **cancel rate**, which matches the time when the outbreak of the covid-19 pandemic happend in New York.
+- The cancel rate during March to April is about **0.13**, which is really high. Compare to the Dec-Jan and Jan-Feb, they only have around **0.04** cancel rate. `
+
 <img src="images/number_of_booked_houses.png" width="450"/>
+- The total numbers of how many houses people booked had decreased sharply, from 1.1 million houses to 600 thousand house.
+
 <img src="images/number_of_canceled_houses.png" width="450"/>
+- The total number of people who canceled their bookings during March-April is 110000, which is the highest among all, and it's about three times of the number of canceled houses on Dec-Jan and Jan-Feb. 
+- We can observe that the covid-19 did cause the Airbnb to lose a lot of bookings.
 
 
 
