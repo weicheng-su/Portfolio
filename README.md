@@ -13,8 +13,9 @@
 ### [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
 - Analyzed the data from [inside Airbnb](http://insideairbnb.com/get-the-data.html) during December 2019 to May 2020.
 - Created plots to show how much did the booking decrease due to the covid-19 pandemic.
-
+<div>
 <img src="images/cancel_rate.png" width="450"/>
+</div>
 - March to April has the highest **cancel rate**, which matches the time when the outbreak of the covid-19 pandemic happend in New York.
 - The cancel rate during March to April is about **0.13**, which is really high. Compare to the Dec-Jan and Jan-Feb, they only have around **0.04** cancel rate. `
 
