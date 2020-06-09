@@ -10,7 +10,7 @@
 - Coducted the skills including bag of words, TF-IDF, word clouds
 - Earned the third rank in the class
 
-### [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipy
+### [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
 - Analyzed the data from [inside Airbnb](http://insideairbnb.com/get-the-data.html) during December 2019 to May 2020.
 - Created plots to show how much did the booking decrease due to the covid-19 pandemic.
 <img src="images/cancel_rate.png" width="450"/>
