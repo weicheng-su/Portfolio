@@ -9,6 +9,9 @@
 - Implemented text mining to classify the hate speech in twitter
 - Coducted the skills including bag of words, TF-IDF, word clouds
 - Earned the third rank in the class
+<img src="all_class_word_cloud.png" width="450"/>
+<img src="tweet_hate_speech_3rd.png" width="450"/>
+
 
 ### [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
 - Analyzed the data from [inside Airbnb](http://insideairbnb.com/get-the-data.html) during December 2019 to May 2020.
