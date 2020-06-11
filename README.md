@@ -36,7 +36,7 @@
 - We can observe that the covid-19 did cause the Airbnb to lose a lot of bookings.
 
 <br>
-### Project4: [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
+### Project4: [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/E.SUN_Bank_Fraud_Detection_Competition/blob/master/E.SUN_Bank_random_forest.ipynb)
 - A competition held by E.SUN bank to detect fraud credit card behaviors.
 - Implemented skills including data exploration, cleaning and modeling
 
