@@ -1,8 +1,8 @@
 ## Data Science Projects
 ### Project1: [Implement KNN with BFL and LSH](https://github.com/weicheng-su/Implement_KNN_with_BFL_and_LSH/blob/master/LSH_vs_Brute_Force_on_KNN.ipynb)
 
-- Implemented KNN with brute-force linear search (BFL) and Locality-sensitive hashing search (LSH), and then compared their effectiveness and efficiency. 
-- Changed LSH hyperparameters to see the performance change via plots.
+- Implemented KNN with brute-force linear search (BFL) and Locality-sensitive hashing search (LSH), and compared their effectiveness and efficiency. 
+- Changed LSH hyperparameters to observe the performance change via plots.
 <img src="images/effectiveness.png" width="450"/>
 <img src="images/efficiency.png" width="450"/>
 
