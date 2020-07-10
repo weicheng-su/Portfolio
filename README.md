@@ -9,7 +9,7 @@
 <br>
 ### Project2: [Twitter Hate Speech Detection](https://github.com/weicheng-su/Twitter_Hate_Speech_Detection)
 - Implemented text mining to classify the hate speech in twitter
-- Coducted the skills including bag of words, TF-IDF, word clouds, SVM classifier.
+- Coducted the skills including bag of words, TF-IDF, word clouds, SVM classifier
 - Earned the third rank in the class
 <!-- <img src="images/all_class_word_cloud.png" width="450"/> -->
 <img src="images/tweet_hate_speech_3rd.png" width="450"/>
