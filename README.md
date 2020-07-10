@@ -21,7 +21,7 @@
 
 <img src="images/cancel_rate.png" width="450"/>
 
-- March to April has the highest **cancel rate**, which matches the time when the outbreak of the covid-19 pandemic happend in New York.
+- March to April has the highest **cancel rate**, which matches the time of the covid-19 pandemic outbreak in New York.
 - The cancel rate during March to April is about **0.13**, which is really high. Compare to the Dec-Jan and Jan-Feb, they only have around **0.04** cancel rate.
 
 <br>
