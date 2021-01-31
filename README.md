@@ -44,4 +44,4 @@
 ### Contact Me
 - [My LinkedIn](https://www.linkedin.com/in/wei-cheng-su/)
 - [My Github](https://github.com/weicheng-su)
-- E-mail: weichengsu1998@gmail.com
+- E-mail: leo.wc.su@gmail.com
