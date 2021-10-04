@@ -19,14 +19,14 @@
 - Utilized Tableau to visualize the subway ridership changes during the COVID-19 pandemic in Taipei
 - Created an interactive chart that user can click the station on map and then observe the ridership changes of the station and the whole line
 
-<!-- Show the images side-by-side -->
-<p float="left">
+<!-- Show the images side-by-side (did not work) -->
+<!-- <p float="left">
   <img src="images/Taipei_subway_Taipei_city_hall.png" width="450" />
   <img src="images/Taipei_subway_zoo.png" width="450" /> 
-</p>
+</p> -->
 
-<!-- <img src="images/Taipei_subway_Taipei_city_hall.png" width="450"/> -->
-<!-- <img src="images/Taipei_subway_zoo.png" width="450"/> -->
+<img src="images/Taipei_subway_Taipei_city_hall.png" width="700"/>
+<img src="images/Taipei_subway_zoo.png" width="700"/>
 
 
 
