@@ -15,7 +15,7 @@
 <img src="images/tweet_hate_speech_3rd.png" width="450"/>
 
 <br>
-### Project3: [Taipei Subway Ridership Visualization (Tableau)](https://public.tableau.com/views/MRT_Project_v3/Dashboard2?:language=zh-TW&:display_count=n&:origin=viz_share_link)
+### Project3: [Taipei Subway Ridership Visualization](https://public.tableau.com/views/MRT_Project_v3/Dashboard2?:language=zh-TW&:display_count=n&:origin=viz_share_link)
 - Utilized Tableau to visualize the subway ridership changes during the COVID-19 pandemic in Taipei
 - Created an interactive chart that user can click the station on map and then observe the ridership changes of the station and the whole line
 
