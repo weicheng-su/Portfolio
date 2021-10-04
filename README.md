@@ -26,9 +26,10 @@
 </p> -->
 
 <img src="images/Taipei_subway_Taipei_city_hall.png" width="750"/>
+- The ridership change of the "Taipei City Hall Station"（市政府站) and the "Blue Line"（板南線）
 <br>
 <img src="images/Taipei_subway_zoo.png" width="750"/>
-
+- The ridership change of the "Taipei Zoo Station"（動物園站) and the "Brown Line"（文湖線）
 
 
 <br>
