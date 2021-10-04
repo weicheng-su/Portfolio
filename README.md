@@ -15,7 +15,16 @@
 <img src="images/tweet_hate_speech_3rd.png" width="450"/>
 
 <br>
-### Project3: [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
+### Project3: [Taipei Subway Ridership Visualization (Tableau)](https://public.tableau.com/views/MRT_Project_v3/Dashboard2?:language=zh-TW&:display_count=n&:origin=viz_share_link)
+- Utilized Tableau to visualize the subway ridership changes during the COVID-19 pandemic in Taipei
+- Created an interactive chart that user can click the station on map and then observe the ridership changes of the station and the whole line
+<img src="images/Taipei_subway_Taipei_city_hall.png" width="450"/>
+<img src="images/Taipei_subway_zoo.png" width="450"/>
+
+
+
+<br>
+### Project4: [How Much Did Covid-19 Affect the Airbnb on Booking Houses (Based on New York)](https://github.com/weicheng-su/Airbnb_Project/blob/master/airbnb_New_York_2019_Dec_to_2020_May.ipynb)
 - Analyzed the data from [inside Airbnb](http://insideairbnb.com/get-the-data.html) during December 2019 to May 2020.
 - Created plots to show how much did the booking decrease due to the covid-19 pandemic.
 
@@ -36,7 +45,7 @@
 - We can observe that the covid-19 did cause the Airbnb to lose a lot of bookings.
 
 <br>
-### Project4: [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/E.SUN_Bank_Fraud_Detection_Competition/blob/master/E.SUN_Bank_random_forest.ipynb)
+### Project5: [E.SUN Bank Fraud Detection Competition](https://github.com/weicheng-su/E.SUN_Bank_Fraud_Detection_Competition/blob/master/E.SUN_Bank_random_forest.ipynb)
 - A competition held by E.SUN bank to detect fraud credit card behaviors.
 - Implemented skills including data exploration, cleaning and modeling
 
