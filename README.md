@@ -25,9 +25,9 @@
   <img src="images/Taipei_subway_zoo.png" width="450" /> 
 </p> -->
 
-<img src="images/Taipei_subway_Taipei_city_hall.png" width="700"/>
+<img src="images/Taipei_subway_Taipei_city_hall.png" width="750"/>
 <br>
-<img src="images/Taipei_subway_zoo.png" width="700"/>
+<img src="images/Taipei_subway_zoo.png" width="750"/>
 
 
 
